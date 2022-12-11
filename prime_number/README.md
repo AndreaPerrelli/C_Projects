@@ -8,11 +8,11 @@ This implementation of the Segmented Sieve of Eratosthenes is written in C, and 
 
 To use this implementation of the Segmented Sieve of Eratosthenes, you will need a C compiler and the standard C library. You can compile the code using the following command:
 
-gcc -o sieve sieve.c
+gcc -o prime_number prime_number.c
 
 Once the code is compiled, you can run it by entering the following command:
 
-./sieve
+./prime_number
 
 
 When the program runs, it will prompt you to enter a number. This number represents the upper limit of the range of numbers to be sieved, and must be a positive integer greater than 1. Once you have entered the number, the program will use the Segmented Sieve of Eratosthenes to find all prime numbers in the range [2, n], where n is the number you entered. The program will then output the prime numbers that it found, one per line.
