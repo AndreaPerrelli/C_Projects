@@ -1,5 +1,3 @@
-Yes, here is an example of external documentation for the implementation of the Segmented Sieve of Eratosthenes that I wrote:
-
 Introduction
 The Segmented Sieve of Eratosthenes is an algorithm for finding prime numbers in a given range of numbers. It is an efficient and effective method for finding prime numbers, and is often used in applications that require the efficient calculation of prime numbers.
 
