@@ -43,6 +43,13 @@ This implementation of the Segmented Sieve of Eratosthenes has a number of limit
 
 Future work could address these limitations by exploring alternative optimization techniques, or by designing more efficient data structures or algorithms for finding prime numbers.
 
+| Advantages                                              | Disadvantages                                                      |
+|------------------------------------------------------------|---------------------------------------------------------------------|
+| Highly optimized and efficient                            | Memory requirements may be too large for some applications or inputs |
+| Uses a large wheel, a modulo wheel, and a block sieve      | Optimization techniques may not be suitable for all types of problems |
+| Capable of finding prime numbers up to a very large number | Implementation may be complex and difficult to understand or modify   |
+
+
 ## Conclusion
 
 In conclusion, this implementation of the Segmented Sieve of Eratosthenes is a highly optimized and efficient algorithm for finding prime numbers in a given range of numbers. It uses a large wheel, a modulo wheel, and a block sieve to further optimize the algorithm, and is capable of finding prime numbers up to a very large number with high efficiency. However, it also has some limitations that could be addressed in future work. Overall, it is a useful and effective method for finding prime numbers in many applications.
