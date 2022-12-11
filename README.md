@@ -5,3 +5,4 @@ A bunch of codes made in C
 |-----------------|------------|
 | Prime Number    | Done       |
 | Armstrong Number| Done       |
+| Fibonacci Number| Done       |
