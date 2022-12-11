@@ -1,0 +1,1 @@
+This program prompts the user to enter a number, and then calculates the number of digits in that number. It then loops through each digit of the number and adds it to a running sum, raising each digit to the power of the total number of digits. Finally, the program checks if the sum is equal to the original number, and outputs the result.
